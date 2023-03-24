@@ -6,6 +6,13 @@ class welcome{
 
  a=10;
  b=20;
+
+
+ //task 101 changes
+
+ i = 10;
+ j = 20;
+
 }
 
 
